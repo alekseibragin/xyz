@@ -22,4 +22,4 @@
 ## Кластеризация с помощью алгоритма KMeans:
 
 Cогласно диаграмме корреляции, как вы можете видеть, наилучшими параметрами для рисования и показа того, как работает алгоритм, являются возраст, ИМТ, глюкоза.
-https://github.com/alekseibragin/xyz/image/Correlation.png
+![](https://github.com/alekseibragin/xyz/image/Correlation.png)
