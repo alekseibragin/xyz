@@ -24,3 +24,15 @@
 Cогласно диаграмме корреляции, как вы можете видеть, наилучшими параметрами демонстрации того, как работает алгоритм, являются возраст, ИМТ, глюкоза.
 
 ![Correlation](https://github.com/alekseibragin/xyz/blob/main/image/Correlation.png)
+
+**Перед кластеризацией:** 
+
+![](https://github.com/alekseibragin/xyz/blob/main/image/Age%20Vs%20BMI%20%2C%20Before.png)
+
+![](https://github.com/alekseibragin/xyz/blob/main/image/Age%20vs%20Glucose%20%2C%20Before.png)
+
+**После кластеризации :**
+
+![](https://github.com/alekseibragin/xyz/blob/main/image/Age%20vs%20BMI%20%2C%20After.png)
+
+![](https://github.com/alekseibragin/xyz/blob/main/image/Age%20vs%20Gluscose%20%2C%20After.png)
